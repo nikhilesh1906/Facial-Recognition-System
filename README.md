@@ -30,4 +30,4 @@ It contains the following:
 	 - the folder also contains code to convert the feature vectors into libsvm format
 	 - for reference follow the face-recog-openface-steps.txt   
 
-4. references used in our project (bibliography).
+
